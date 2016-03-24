@@ -1,0 +1,68 @@
+/*Social Section*/
+.social ul li a
+{
+    color: #006666;
+    font-size: 20px;
+}
+.social ul li a:hover
+{
+    color: #009999;
+}
+
+/*Menu Section*/
+
+nav img
+{
+    width: 50px;
+    height: 50px;
+    margin-top: -2px;
+}
+nav ul li
+{
+    font-family: fantasy;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+/*Slider Section*/
+
+.slider
+{
+    width: 100%;
+    height: 600px;
+    margin-top: -50px;
+}
+.slider h3
+{
+    font-family: fantasy;
+    font-size: 30px;
+    margin-top: -200px;
+    color: black;
+}
+.slider button
+{
+   font-size: 20px;
+       
+}
+.slider h2
+{
+    margin-top: -200px;
+}
+
+/*About Section*/
+
+.media h1
+{
+    font-family: 'Roboto Slab', serif;
+}
+.main
+{
+    background: oldlace;
+}
+
+/*Footer Part*/
+
+.what
+{
+    background-color:#f6fdb6;
+}
